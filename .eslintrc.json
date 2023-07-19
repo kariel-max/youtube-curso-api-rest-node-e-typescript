@@ -14,28 +14,28 @@
   },
   "plugins": [
     "@typescript-eslint"
-  ],
-  "rules": {
-    "indent": [
-      "error",
-      2,
-      {
-        "SwitchCase": 1
-      }
-    ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "semi": [
-      "error",
-      "always"
-    ],
-    "@typescript-eslint/ban-types": "off",
-    "@typescript-eslint/no-empty-interface": "off"
-  }
+  ]
+  // "rules": {
+  //   "indent": [
+  //     "error",
+  //     2,
+  //     {
+  //       "SwitchCase": 1
+  //     }
+  //   ],
+  //   "linebreak-style": [
+  //     "error",
+  //     "unix"
+  //   ],
+  //   "quotes": [
+  //     "error",
+  //     "single"
+  //   ],
+  //   "semi": [
+  //     "error",
+  //     "always"
+  //   ],
+    //"@typescript-eslint/ban-types": "off",
+    //"@typescript-eslint/no-empty-interface": "off"
+//  }
 }
